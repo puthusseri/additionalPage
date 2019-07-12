@@ -3,14 +3,14 @@ layout: default
 ---
 
 
-# About me
+## About me
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
   Hai, I'm Vyshak Puthusseri. A student of MCA at College of Engineering Trivandrum, India.
   I love to gain knowledge in the field of Data Science.
 
-# Education
+## Education
 
 * **Masters in Computer Application** - CET     [2017-20]
 * **BSc. Computer Science** - MG College Iritty [2014-17]
