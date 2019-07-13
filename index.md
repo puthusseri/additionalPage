@@ -12,11 +12,11 @@ layout: default
 
 ## Education
 
-* **Masters in Computer Application** - CET     [2017-20]
+* **Masters in Computer Application**  - CET     [2017-20]
 * **BSc. Computer Science** - MG College Iritty [2014-17]
 * **Plus 2 Computer Science** - Mattannur Hss   [2017-20]
 
-# Projects
+## Projects
 
 * **InstaPostDnld** 
 It helps to download all the images of an Instagram profile.Used BeadutifulSoup for scrapping.
