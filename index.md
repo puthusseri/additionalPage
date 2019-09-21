@@ -22,7 +22,7 @@ layout: default
 It helps to download all the images of an Instagram profile.Used BeadutifulSoup for scrapping.
 
 * **Kerala Tourism VR**
-It was a VR application which helps in Kerala Tousism. Created for the Facebook School of Innovation VR101 competition
+It was a VR application which helps in Kerala Tousism. Created for the Facebook School of Innovation VR101 awareness programme.
 
-* **A novel approach for classification using clustering**
-A case study on heart disease prediction to improve the accuracy of classification algorithms.
+* **A novel approach for classification using clustering (2017)**
+A case study on heart disease prediction to improve the accuracy of classification algorithms. 
