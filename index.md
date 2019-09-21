@@ -12,17 +12,17 @@ layout: default
 
 ## Education
 
-* **Masters in Computer Application**  - CET     [2017-20]
+* **Masters in Computer Application**  -  CET     [2017-20]
 * **BSc. Computer Science** - MG College Iritty [2014-17]
 * **Plus 2 Computer Science** - Mattannur Hss   [2017-20]
 
 ## Projects
 
-* **InstaPostDnld** 
-It helps to download all the images of an Instagram profile.Used BeadutifulSoup for scrapping.
-
-* **Kerala Tourism VR**
+* **Kerala Tourism VR** <div style="text-align: right"> [2019] </div><br/>
 It was a VR application which helps in Kerala Tousism. Created for the Facebook School of Innovation VR101 awareness programme.
 
-* **A novel approach for classification using clustering (2017)**
+* **InstaPostDnld** <div style="text-align: right"> [2018] </div><br/>
+It helps to download all the images of an Instagram profile.Used BeadutifulSoup for scrapping.
+
+* **A novel approach for classification using clustering** <div style="text-align: right"> [2017] </div><br/>
 A case study on heart disease prediction to improve the accuracy of classification algorithms. 
