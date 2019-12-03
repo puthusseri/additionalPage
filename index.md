@@ -25,6 +25,15 @@ layout: default
 
 ## Projects
 
+* **Generate Faces** [2019]<br />
+The project was done for the udacity deeplearning nanodegree. Define two adversarial networks, a generator and discriminator, and train them until realistic faces can be generated."
+
+* **Generate TV Scripts** [2019]<br />
+The project was done for the udacity deeplearning nanodegree. It generate a TV script by defining and training a recurrent neural network."
+
+* **Dog-Breed Classifier** [2019]<br />
+The project was done for the udacity deeplearning nanodegree. Build a CNN model from the scratch."
+
 * **Predicting BikeSharing patterns** [2019]<br />
 The project was done for the udacity deeplearning nanodegree. The model was trained using by creating the neuralnetwork without using ML libraries. The computations are done using the numpy. Dataset used was "Bike Sharing Dataset from UCI ML repository"
 
