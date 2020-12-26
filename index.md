@@ -40,3 +40,13 @@ It helps to download all the images of an Instagram profile.Used BeadutifulSoup 
 Used the Unity 3d game engine for doing. The result was build into an android applicaion. Used google VR Tool kit for VR assosciated libraries.
 
 
+## Something Personal
+
+### What I likes the most:
+ Sit infront of a computer, solve the uncerinities.
+
+### What I dislikes the most:
+- Cricket
+- Football
+- Coffee and tea
+
