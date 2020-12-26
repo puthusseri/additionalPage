@@ -7,44 +7,36 @@ layout: default
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-  Hai, I'm Vyshak Puthusseri. A student of MCA at College of Engineering Trivandrum, India.
-  I love to gain knowledge in the field of Data Science.
+  Hai, I'm Vyshak Puthusseri.Completed my Masters degree in Computer Applications at College of Engineering Trivandrum, India as a class topper. I started loving to learn, after I build my first computer from various trash computers in my bachelor degree college. 
+  I will be so happy if I get a chance to teach someone that I know. 
 
-## Education
+## Currently
+  Now as a part time, I work as a Chegg Expert. And my duty is to give answers to the questions that the users will ask. I usually answer questions related to programming( Mainly python) and datastructures.
 
-* **Masters in Computer Application**  -  CET     [2017-20]
-* **BSc. Computer Science** - MG College Iritty [2014-17]
-* **Plus 2 Computer Science** - Mattannur Hss   [2017-20]
 
-## Certifications
+## Projects which was done for just studying
 
-* **Machine Learning on NPTEL** [2019]
-* **Introduction to parallel Programming in Open MP on NPTEL** [2018]
-* **Programming, Data Structures and Algorithms in Python on NPTEL** [2017]
-* **PC Hardware and Networking, ASAP Govt.of Kerala** [2017]
+* **ScrapTripAdvisor** [2019] <br />
+Generate some insights by scrapping the website.
 
-## Projects
+* **ScrapUberEats** [2019] <br />
+This was done to find out where to get the best biriyani.
+We need to input the link of the ubereats page which already selects the location and the food item.
+Adter scrapping we will extract the reviews of the restaurant and that food wad will try to rank it.
 
-* **Generate Faces** [2019]<br />
-The project was done for the udacity deeplearning nanodegree. Define two adversarial networks, a generator and discriminator, and train them until realistic faces can be generated."
+* **FaceRecoganizedAttendence** [2019] <br />
+Trained a deep neural network using CNN that can identity the face of my classmates. The data was collected by taking arround 10 images of each of my classmates and label it with their names.
 
 * **Generate TV Scripts** [2019]<br />
 The project was done for the udacity deeplearning nanodegree. It generate a TV script by defining and training a recurrent neural network."
-
-* **Dog-Breed Classifier** [2019]<br />
-The project was done for the udacity deeplearning nanodegree. Build a CNN model from the scratch."
-
-* **Predicting BikeSharing patterns** [2019]<br />
-The project was done for the udacity deeplearning nanodegree. The model was trained using by creating the neuralnetwork without using ML libraries. The computations are done using the numpy. Dataset used was "Bike Sharing Dataset from UCI ML repository"
-
-* **Kerala Tourism VR** [2019]<br />
-It was a VR application which helps in Kerala Tousism. Created for the Facebook School of Innovation VR101 awareness programme.
 
 * **Car Racing** [2019]<br />
 Racing stimulation build using the Unity3D game engine
 
 * **InstaPostDnld** [2018] <br />
-It helps to download all the images of an Instagram profile.Used BeadutifulSoup for scrapping.
+It helps to download all the images of an Instagram profile.Used BeadutifulSoup for scrapping. Done for my friend to help to collect photos of her boyfriend to give him a birthday surprise.
 
-* **A novel approach for classification using clustering** [2017] <br />
-A case study on heart disease prediction to improve the accuracy of classification algorithms. 
+* **VR Video Player** [2018] <br />
+Used the Unity 3d game engine for doing. The result was build into an android applicaion. Used google VR Tool kit for VR assosciated libraries.
+
+
