@@ -21,7 +21,7 @@ This was done to find out where to get the best biriyani.
 We need to input the link of the Uber Eats page which already selects the location and the food item.
 After scrapping we will extract the reviews of the restaurant and that food wad will try to rank it.
 
-* **FaceRecoganizedAttendence** [2019] <br />
+* **Face Recognized Attendance** [2019] <br />
 Trained a deep neural network using CNN that can identify the face of my classmates. The data was collected by taking around 10 images of each of my classmates and label it with their names.
 
 * **Generate TV Scripts** [2019]<br />
