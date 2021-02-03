@@ -8,7 +8,7 @@ layout: default
   Hai, I'm Vyshak Puthusseri. Completed my Master's degree in Computer Applications at College of Engineering Trivandrum, India as a class topper.  My dream is to build something that can solve at least some uncertainty.
 
 ## Currently
-  Now as a part-time, I work as a Chegg Expert. And I have to give answers to the questions that the users will ask. I usually answer questions related to programming( Mainly python) and data structures. 
+  I work as a part-time Chegg Expert and I give answers to the questions the users ask. I usually answer questions related to programming( mainly python) and data structures. 
 
 
 ## Projects which was done for just studying
@@ -34,7 +34,7 @@ Racing stimulation build using the Unity3D game engine
 It helps to download all the images of an Instagram profile. Used BeadutifulSoup for scrapping. Done for my friend to help to collect photos of her boyfriend to give him a birthday surprise.
 
 * **VR Video Player** [2018] <br />
-Used the Unity 3d game engine for doing. The result built into an android application. Used google VR Tool kit for VR associated libraries.
+Used the Unity 3d game engine for working. The result built into an android application. Used google VR Tool kit for VR associated libraries.
 
 
 ## Something Personal
